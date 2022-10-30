@@ -1,0 +1,4 @@
+databaseChangeLog:
+  - include:
+      file: task.sql
+      relativeToChangelogFile: true

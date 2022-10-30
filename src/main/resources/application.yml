@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    task:
+      initialize-enabled: false
+  main:
+    lazy-initialization: true
